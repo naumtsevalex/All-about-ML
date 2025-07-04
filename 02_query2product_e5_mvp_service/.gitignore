@@ -1,0 +1,10 @@
+product_embeddings.npy
+small_product_embeddings.npy
+product_stats.csv
+product_titles.csv
+runs/
+saved_e5_model/
+checkpoints/
+logs/
+
+
