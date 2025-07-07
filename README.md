@@ -12,6 +12,6 @@
 
 ### Боевые задачи и готовые MVP 
 
-* [Собираем MVP product search - дообучение E5 и веб-сервис для сравнения поисковых выдач](еще статью не добавил) → `/02_query2product_e5_mvp_service`
+* [Собираем MVP product search - дообучение E5 и веб-сервис для сравнения поисковых выдач](https://habr.com/ru/companies/datafeel/articles/925290/) → `/02_query2product_e5_mvp_service`
 
 
